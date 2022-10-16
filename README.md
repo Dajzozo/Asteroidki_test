@@ -1,4 +1,4 @@
 # Asteroidki_test
 :) :) :) :) :) :)
 
-Będą się tu działy rzeczy
+Będą się tu działy rzeczy :)
