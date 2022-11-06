@@ -8,7 +8,7 @@ public class Moving_sript_player : MonoBehaviour
     public float Speed = 3; // publiczne zmienne do edycji w Unity
     public float Sprint = 2;
 
-    [SerializeField] // uwidocznienie przywatnych zmiennych
+    [SerializeField] // uwidocznienie prywatnych zmiennych
     private Rigidbody rb; // prywatna zmienna przechowuj¹ca informacje z Rigidbody - systemu fizyki w Unity
     private bool isRigidbody;
 
